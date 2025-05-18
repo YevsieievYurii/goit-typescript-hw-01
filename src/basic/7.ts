@@ -27,5 +27,7 @@ const page2: Page = {
   status: "close",
 };
 
+console.log("сьоме завдання");
+
 console.log(page1);
 console.log(page2);

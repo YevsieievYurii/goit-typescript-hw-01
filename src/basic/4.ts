@@ -10,6 +10,8 @@ function customError(): never {
   throw new Error("Error");
 }
 
+console.log("четверте завдання");
+
 console.log(showMessage);
 console.log(calc);
 console.log(customError);
